@@ -1,0 +1,38 @@
+body {
+  background-color: red;
+}
+
+/* CSS for Fanex text */
+.topText {
+  color: white;
+  text-align: center;
+  height: 15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 500 !important;
+  margin: 27px 0 26px;
+  color: #fff;
+  font-size: 3rem;
+}
+
+/* CSS for DIGITAL FAN ENGAGEMENT PARTNER text */
+.leftSideText {
+  color: white;
+  word-wrap: break-word;
+  padding: 10px;
+  width: 200px;
+}
+
+/* CSS for border line */
+.borderLine {
+  color: white;
+  border-left-style: solid;
+  width: 40px;
+}
+
+/* css for tech mahondra logo */
+.logo {
+  color: white;
+  margin-top: 30px;
+}
