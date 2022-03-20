@@ -1,7 +1,5 @@
-/* body {
-  background-color: red;
-} */
 
+/* CSS for page style */
 .pageStyle {
   background-color: red;
   position: absolute;
@@ -13,8 +11,6 @@
 
 /* CSS for Fanex text */
 .topText {
-  /* background-color: red; */
-
   color: white;
   text-align: center;
   height: 15rem;

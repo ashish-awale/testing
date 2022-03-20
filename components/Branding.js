@@ -21,8 +21,10 @@ const Branding = () => {
             <h3>  DIGITAL FAN <span>ENGAGEMENT</span> PARTNER</h3>
           </div>
 
+          {/* Define border line */}
           <div className='borderLine' />
 
+          {/* Define Tech mahindra logo */}
           <div className="logo">
             <Image src="/Logo.png" alt="logo" width="160" height="60" />
           </div>
